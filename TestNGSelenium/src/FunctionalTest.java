@@ -9,43 +9,43 @@ import org.testng.annotations.Test;
 
 
 /**
- * @author Santosh
+ * @author Santosh 
  *
  */
 public class FunctionalTest {
 
-	private static WebDriver driver;
+	private static WebDriver webDriver;
 
 	@BeforeTest
 	private void doSetUp() {
 		System.setProperty("webdriver.gecko.driver", "F:/Set-up/Selenium/geckodriver.exe");
-		driver = new FirefoxDriver();
-		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-		driver.get("https://www.google.com/");
-		driver.findElement(By.xpath("//*[@id='lst-ib']")).sendKeys("Santosh Dubey");
+		webDriver = new FirefoxDriver();
+		webDriver.manage().window().maximize();
+		webDriver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+		webDriver.get("https://www.google.com/");
+		webDriver.findElement(By.xpath("//*[@id='lst-ib']")).sendKeys("Santosh Dubey");
 	}
 
 	@Test
 	private void doLoginTest() throws InterruptedException {
 
-		driver.findElement(By.xpath("//*[@id='_fZl']")).click();
-		String result = driver.findElement(By.xpath("//*[@class='hdtb-mitem hdtb-msel hdtb-imb']")).getText();
+		webDriver.findElement(By.xpath("//*[@id='_fZl']")).click();
+		String result = webDriver.findElement(By.xpath("//*[@class='hdtb-mitem hdtb-msel hdtb-imb']")).getText();
 		assertEquals("All", result);
 	}
 
 	@Test
 	private void clickProfile() throws InterruptedException {
 
-		String result = driver.findElement(By.xpath("//*[@class='hdtb-mitem hdtb-imb'][2]/a")).getText();
+		String result = webDriver.findElement(By.xpath("//*[@class='hdtb-mitem hdtb-imb'][2]/a")).getText();
 		assertEquals("Videos", result);
 
 	}
 
 	@AfterTest
 	private void doTeatDown() throws InterruptedException {
-		driver.close();
-		driver.quit();
+		webDriver.close();
+		webDriver.quit();
 	}
 
 	public static void main(String[] args) {
