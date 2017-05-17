@@ -1,0 +1,106 @@
+Total items retrieved: 100
+**Items are sorted in ascending order on 'Total Charges'
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+No of records                                       Product Name                                 Current Price        Shipping charges   Total Charges(Current + Shipping)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 1        | DEFECTIVE Garmin Nuvi 255 Car GPS Device Navigation System Receiver OB104-D       | 6.44                 | 0.00       	| 6.44                 |
+| 2        | DEFECTIVE AS-IS Garmin Nuvi 255W Car GPS Device Navigation System Receiver B1085  | 8.96                 | 0.00       	| 8.96                 |
+| 3        | Super Cheap Garmin Nuvi 255W GPS                                                  | 5.50                 | 5.99       	| 11.49                |
+| 4        | Garmin Nuvi 255W GPS Unit                                                         | 14.99                | 0.00       	| 14.99                |
+| 5        | L@@K Garmin Nuvi 255W GPS 4.3" Portable Touch Screen Car Navigation L@@K          | 15.00                | 0.00       	| 15.00                |
+| 6        | MINOLTA MAXXUM FLASH D 314i GOOD USED TESTED OUR #2                               | 9.99                 | 5.99       	| 15.98                |
+| 7        | Garmin Nuvi 225w GPS                                                              | 16.20                | 0.00       	| 16.20                |
+| 8        | Garmin nuvi 255W 4.3" Widescreen GPS - 2011 N.America Map FAIR condition 103664M  | 17.50                | 0.00       	| 17.50                |
+| 9        | Garmin Nuvi 255W GPS Unit. No maps .                                              | 14.90                | 2.88       	| 17.78                |
+| 10       | Used Working Garmin Nuvi 255W Car GPS Device Navigation System Receiver           | 18.00                | 0.00       	| 18.00                |
+| 11       | Garmin nuvi 255W 4.3" Widescreen GPS - 2011 N.America Map FAIR condition 103664M  | 15.00                | 4.00       	| 19.00                |
+| 12       | Garmin nuvi 255W 4.3" Widescreen GPS - 2011 N.America Map FAIR condition 103664M  | 15.00                | 4.00       	| 19.00                |
+| 13       | Garmin nüvi 255W 2010 MAPS(or later) New accessory Bundle FREE FAST SHIPPING!!    | 19.95                | 0.00       	| 19.95                |
+| 14       | Garmin Nuvi 255W 4.3" Automotive Mountable GPS Navigation     9UJH                | 19.99                | 0.00       	| 19.99                |
+| 15       | Garmin nuvi 255W 4.3" Portable Touchscreen  GPS Navigation System                 | 20.49                | 0.00       	| 20.49                |
+| 16       | Garmin nuvi 255W 4.3" Portable Touchscreen  GPS Navigation System                 | 20.49                | 0.00       	| 20.49                |
+| 17       | Garmin nuvi 255W 4.3" Portable Touchscreen  GPS Navigation System                 | 20.49                | 0.00       	| 20.49                |
+| 18       | Garmin nuvi 255W 4.3" Portable Touchscreen  GPS Navigation System                 | 20.49                | 0.00       	| 20.49                |
+| 19       | MINOLTA MAXXUM FLASH D 314i LN WITH ORIGINAL BOX + PAPERS NEVER USED LIKELY       | 14.99                | 5.99       	| 20.98                |
+| 20       | Garmin Nuvi 225w GPS Navigation  Replacement Unit                                 | 21.08                | 0.00       	| 21.08                |
+| 21       | Garmin nuvi 255W 4.3" Widescreen GPS N.America Map                                | 19.11                | 2.77       	| 21.88                |
+| 22       | Garmin Nuvi 225w (4.3 Inch Screen) GPS  * Very Good Condition *                   | 21.98                | 0.00       	| 21.98                |
+| 23       | GARMIN NUVI 255W AUTOMOTIVE GPS RECEIVER                                          | 21.99                | 0.00       	| 21.99                |
+| 24       | Garmin Nuvi 255 GPS Navigation System Receiver Tested 4.3"                        | 22.00                | 0.00       	| 22.00                |
+| 25       | Garmin nuvi 255W 4.3" Widescreen Portable GPS - 2010 North America Map 105410     | 22.50                | 0.00       	| 22.50                |
+| 26       | Garmin nuvi 255W 4.3" Widescreen GPS - 2011 N.America Map FAIR condition 103664M  | 22.75                | 0.00       	| 22.75                |
+| 27       | Garmin nuvi 255W 4.3" Portable Touchscreen  GPS Navigation System                 | 22.99                | 0.00       	| 22.99                |
+| 28       | Garmin Nuvi 225w GPS                                                              | 17.00                | 0.00       	| 17.00                |
+| 29       | Garmin Nuvi 255 GPS Navigation System Receiver Tested 4.3"                        | 23.99                | 0.00       	| 23.99                |
+| 30       | USED GARMIN NUVI MODEL 200 GPS UNIT WITH AC POWER CORD                            | 17.99                | 6.00       	| 23.99                |
+| 31       | Garmin nuvi 255W 4.3" Widescreen GPS                                              | 23.99                | 0.00       	| 23.99                |
+| 32       | Garmin Nuvi 255W 4.3" GPS - EXCELLENT CONDITION                                   | 23.99                | 0.00       	| 23.99                |
+| 33       | Garmin nuvi 255W 4.3" Widescreen GPS - 2014 N.America Map FAIR condition 103670   | 24.05                | 0.00       	| 24.05                |
+| 34       | Garmin nuvi 255W 4.3" Widescreen GPS - 2010 N.America Map FAIR condition 105275M  | 24.30                | 0.00       	| 24.30                |
+| 35       | Garmin nüvi 255W 4.3-Inch Portable GPS Navigator Bundle                           | 24.95                | 0.00       	| 24.95                |
+| 36       | Garmin Nuvi 255W GPS 4.3" Portable Touch Screen Car Navigation                    | 24.99                | 0.00       	| 24.99                |
+| 37       | Garmin nüvi 255W 4.3-Inch Portable GPS Navigator Bundle *Tested*                  | 24.99                | 0.00       	| 24.99                |
+| 38       | Garmin Nuvi 255w Automotive Navigation GPS Tested Working                         | 22.00                | 3.00       	| 25.00                |
+| 39       | Garmin Nuvi 225w GPS in Box                                                       | 25.00                | 0.00       	| 25.00                |
+| 40       | Garmin Nuvi 255w Automotive Navigation GPS - Tested                               | 25.00                | 0.00       	| 25.00                |
+| 41       | Garmin Nuvi 255W GPS Navigation Used                                              | 18.00                | 7.50       	| 25.50                |
+| 42       | Garmin Nuvi 225w GPS in Box                                                       | 20.00                | 6.00       	| 26.00                |
+| 43       | Garmin Nuvi 255w GPS Navigation Bundle. Tested Works!                             | 26.50                | 0.00       	| 26.50                |
+| 44       | GARMIN NUVI 255W Automotive Mountable GPS Unit (4.3" Screen) w/ Car Charger       | 19.93                | 0.00       	| 19.93                |
+| 45       | Garmin Nuvi 255W 4.3" Widescreen GPS 2011 N. America Map  VERY GOOD  TESTED       | 20.00                | 0.00       	| 20.00                |
+| 46       | Garmin Nuvi 225w GPS Color:black Screen:4.3" gently handled almost brand new      | 20.00                | 0.00       	| 20.00                |
+| 47       | Garmin nuvi 255W 4.3" Widescreen GPS - 2011 N.America Map GOOD condition 104975   | 27.30                | 0.00       	| 27.30                |
+| 48       | Garmin nuvi 255W Automotive GPS Receiver with swiss gear holder #C                | 19.99                | 7.50       	| 27.49                |
+| 49       | Garmin nüvi 255W 4.3" Automotive Mountable GPS Receiver - Unit Only               | 24.95                | 3.00       	| 27.95                |
+| 50       | Garmin Nuvii 255W 4.3" Automotive Mountable GPS with Charger, Mount, Case, NICE   | 27.96                | 0.00       	| 27.96                |
+| 51       | Garmin nuvi 255W 4.3" Widescreen GPS                                              | 25.00                | 2.99       	| 27.99                |
+| 52       | Garmin Nuvi 225w GPS                                                              | 28.00                | 0.00       	| 28.00                |
+| 53       | Garmin Nuvi 255w GPS                                                              | 24.95                | 0.00       	| 24.95                |
+| 54       | Garmin Nuvi 255W 4.3-inch Portable Vehicle GPS Navigator                          | 20.00                | 8.95       	| 28.95                |
+| 55       | Garmin Nuvi 255w Portable Touchscreen GPS Navigation Handheld Unit   (1)          | 28.98                | 0.00       	| 28.98                |
+| 56       | Garmin nüvi 255W 4.3-Inch Widescreen Portable GPS Navigator                       | 29.45                | 0.00       	| 29.45                |
+| 57       | Garmin Nuvi 255W Car GPS Device Tested                                            | 25.48                | 0.00       	| 25.48                |
+| 58       | Garmin nüvi 250W 2013.1 MAPS!!,new accessories  -FREE FAST SHIPPING               | 29.95                | 0.00       	| 29.95                |
+| 59       | Garmin nuvi 255W 4.3" Portable Touchscreen  GPS Navigation System                 | 19.99                | 9.99       	| 29.98                |
+| 60       | Garmin nuvi 255W Automotive Mountable GPS Receiver "GPS Only"                     | 30.00                | 0.00       	| 30.00                |
+| 61       | Garmin Nuvi 255W 4.3" GPS Navigation System                                       | 30.00                | 0.00       	| 30.00                |
+| 62       | GARMIN NUVI 255W GPS                                                              | 24.95                | 5.95       	| 30.90                |
+| 63       | Garmin Nuvi 255W 4.3" Portable GPS Navigation System - Tested, Works              | 24.99                | 5.95       	| 30.94                |
+| 64       | Garmin Nuvi 255W GPS BUNDLE IN BOX                                                | 22.49                | 9.95       	| 32.44                |
+| 65       | Garmin Nuvi 255W Automotive GPS wBundle W Charger, Carry Case & Suction Mount     | 24.99                | 7.50       	| 32.49                |
+| 66       | Garmin Nuvi 225w GPS                                                              | 29.00                | 3.95       	| 32.95                |
+| 67       | Garmin nuvi 255W Automotive Mountable                                             | 29.99                | 3.50       	| 33.49                |
+| 68       | GARMIN Nuvi 255W 4.3 Inch Black Portable GPS Navigation System CarCharger bundle  | 33.99                | 0.00       	| 33.99                |
+| 69       | Garmin nuvi 255W Portable GPS Navigator, Bundle. 2015.10 map.                     | 29.99                | 4.99       	| 34.98                |
+| 70       | Garmin Nuvi 225w GPS Unit Great Preowned Condition with Case Bundle               | 35.00                | 0.00       	| 35.00                |
+| 71       | Garmin nuvi 255W 4.3" Widescreen GPS N.America Map Used good - Bundle             | 35.00                | 0.00       	| 35.00                |
+| 72       | Garmin Nuvi 255w Portable Touchscreen GPS Navigation Handheld Unit   (6)          | 28.98                | 0.00       	| 28.98                |
+| 73       | Garmin nuvi 255W Automotive Mountable GPS RECEIVER and Charger                    | 26.95                | 8.95       	| 35.90                |
+| 74       | Garmin nuvi 255W 4.3" Widescreen GPS - 2011 N.America Map GREAT condition 103667  | 36.00                | 0.00       	| 36.00                |
+| 75       | Clean GARMIN NUVI 255W System GPS Global Positioning Travel Directions            | 37.95                | 0.00       	| 37.95                |
+| 76       | Garmin Nuvi 225w GPS package                                                      | 30.00                | 8.00       	| 38.00                |
+| 77       | Garmin nüvi 255W Automotive Mountable with charger and SanDisk Extreme 32GB card  | 39.00                | 0.00       	| 39.00                |
+| 78       | Garmin Nuvi 225w 4.3" Widescreen Portable GPS Navigator Bundle Power Cable Case   | 39.95                | 0.00       	| 39.95                |
+| 79       | ?NICE?Garmin nuvi 255W GPS Navigator 4.3" Touch Screen! 2010 NA Map~FreeShip      | 39.96                | 0.00       	| 39.96                |
+| 80       | Garmin Nuvi 255W GPS 4.3"                                                         | 34.99                | 4.99       	| 39.98                |
+| 81       | GARMIN NUVI 255W GPS NAVIGATION SYSTEM PORTABLE U.S. ETC. MAPS NEW OPEN BOX       | 39.98                | 0.00       	| 39.98                |
+| 82       | GARMIN NUVI 255W Car GPS A2371                                                    | 39.99                | 0.00       	| 39.99                |
+| 83       | Garmin Nuvi 225w GPS                                                              | 39.99                | 0.00       	| 39.99                |
+| 84       | Garmin Nuvi 255W 4.3" Automotive GPS Navigator Unit w/ Car Charger Bundle         | 30.00                | 10.00      	| 40.00                |
+| 85       | GARMIN NUVI 255W GPS BUNDLE Car Mount AC Adapter Plugin                           | 34.99                | 6.00       	| 40.99                |
+| 86       | Garmin nüvi 255W 4.3-Inch Portable GPS Navigator - Automotive Mountable           | 34.95                | 6.95       	| 41.90                |
+| 87       | Garmin nuvi 255W Portable GPS system in original box w/ manual cords bundle etc   | 41.95                | 0.00       	| 41.95                |
+| 88       | Garmin Nuvi 255W GPS Navigator D8                                                 | 44.99                | 0.00       	| 44.99                |
+| 89       | Garmin Nuvi 255w Automotive Mountable GPS Unit w/ Accessory Bundle 4.3" Screen    | 38.00                | 8.00       	| 46.00                |
+| 90       | Garmin nuvi 255W ITEM #11432-1                                                    | 29.99                | 19.99      	| 49.98                |
+| 91       | Garmin Nuvi 255W Automotive Mountable- FREE SHIPPING-                             | 49.99                | 0.00       	| 49.99                |
+| 92       | Garmin nuvi 255W Automotive GPS Receiver                                          | 49.99                | 0.00       	| 49.99                |
+| 93       | Garmin Nuvi 225w GPS Bundle with Portable Friction Mount                          | 49.99                | 0.00       	| 49.99                |
+| 94       | Garmin nüvi 255W US & Canada Maps GPS Vehicle Navigation 4.3" Color Touch Screen  | 49.99                | 0.00       	| 49.99                |
+| 95       | Garmin Nuvi 200 GPS with Accessories                                              | 50.00                | 0.00       	| 50.00                |
+| 96       | Garmin Nuvi 255W GPS with maps US / Europe / France 2013 - LOCKED                 | 47.70                | 0.00       	| 47.70                |
+| 97       | NUVI 255 W  2006-2009                                                             | 49.99                | 4.95       	| 54.94                |
+| 98       | Garmin Nuvi 255W Car GPS Navigation US Map W/ Car charger & Mount Bundle          | 48.98                | 4.95       	| 53.93                |
+| 99       | GARMIN NUVI 255W NAVIGATION GPS TWO VEHICLE SOLUTION BUNDLE GREAT CONDITION       | 42.97                | 4.95       	| 47.92                |
+| 100      | Garmin Nuvi 225w GPS                                                              | 49.99                | 4.95       	| 54.94                |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
