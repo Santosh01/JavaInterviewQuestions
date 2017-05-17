@@ -9,7 +9,7 @@ public interface ProductConstants
 {
     //~ Static variables -------------------------------------------------------
 
-    static final String appName = "SantoshD-Ebay-PRD-708faa0a3-45a8770f";
+    static final String appName = "";
     static final String upcNumber = "";
     static final String EBAY_DEV_API_LINK =
         "http://svcs.ebay.com/services/search/FindingService/v1?OPERATION-NAME=findItemsByProduct&X-EBAY-SOA-SECURITY-APPNAME=" +
