@@ -27,7 +27,7 @@ public class VowelAndConsonant {
 	}
 
 	public static void main(String[] args) {
-		String inpStr = "ABCD XYZ";
+		String inpStr = "ABCDXYZ";
 
 		countVowelConsonant(inpStr);
 
