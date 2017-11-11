@@ -29,6 +29,6 @@ class Sibilings {
 
 	}
 	public static void main(String[] args) {
-		solution(10001);
+		solution(553);
 	}
 }
